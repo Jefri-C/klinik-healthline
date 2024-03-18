@@ -71,9 +71,9 @@
         </div>
         <!-- right section image -->
         <div class="col-md-6 d-md-block d-none text-center align-self-center p-3">
-          <img class="img-fluid" src="{{asset('images/logo/logo/logo.png')}}" alt="branding logo">
+          <img class="img-fluid" src="{{asset('images/logo/logo/Logo-HL.png')}}" alt="branding logo" width="200px">
+          <h3>HealthLine</h3>
           <hr>
-          <div>Logo made by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo free logo creator</a></div>
         </div>
       </div>
     </div>

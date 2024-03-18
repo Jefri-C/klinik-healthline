@@ -8,7 +8,7 @@
       <div class="brand-logo">
       </div>
       <h2 class="brand-text mb-0">
-        <font color="orange">Web</font> Klinik
+        <font color="blue">Health</font><font color='black'>Line</font>
         <!-- @if(!empty($configData['templateTitle']) && isset($configData['templateTitle']))
         {{$configData['templateTitle']}}
         @else
